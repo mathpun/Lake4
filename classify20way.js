@@ -34,7 +34,7 @@ $(document).ready(function() {
 	var condition = task.getCondition();
 
 	var data = {};
-	var inds = shuffle([0,12]);
+	var inds = shuffle([0,11]);
 //	data.imglist_demo = getlist_test_demo(Q1_id,Q2_id,inds);
         data.imglist_demo = getlist_test_demo(task1a_id,task2a_id,task3a_id,task4a_id,task5a_id,task6a_id,task7a_id,task8a_id,task9a_id,task10a_id,task11a_id,task12a_id,inds);
 	data.imglist_list_demo = getlist_train_demo(nway,inds);
