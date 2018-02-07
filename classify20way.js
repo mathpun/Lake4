@@ -8,18 +8,18 @@ $(document).ready(function() {
 
 	// Selected demo images
 	//latin_id = 2;
-	Task1a_id = 3;
-	Task2a_id = 4;
-	Task3a_id = 2;
-	Task4a_id = 4;
-	Task5a_id = 3;
-	Task6a_id = 1;
-	Task7a_id = 2;
-	Task8a_id = 3;
-	Task9a_id = 1;
-	Task10a_id = 3;
-	Task11a_id = 4;
-	Task12a_id = 4;
+	task1a_id = 3;
+	task2a_id = 4;
+	task3a_id = 2;
+	task4a_id = 4;
+	task5a_id = 3;
+	task6a_id = 1;
+	task7a_id = 2;
+	task8a_id = 3;
+	task9a_id = 1;
+	task10a_id = 3;
+	task11a_id = 4;
+	task12a_id = 4;
 //	Q1_id = 1;
 //	Q2_id = 2;
 
