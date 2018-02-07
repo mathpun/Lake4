@@ -107,51 +107,51 @@ var getlist_train_demo = function (nway,r) {
 	
 	list[r[2]] = new Array();
 	for (var c=1; c <= nway; c++ ) {
-  		list[r[0]][c-1] = dname + 'task3a_train' + c + '.png';
+  		list[r[2]][c-1] = dname + 'task3a_train' + c + '.png';
     }
 
 	list[r[3]] = new Array();
 	for (var c=1; c <= nway; c++ ) {
-	  	list[r[1]][c-1] = dname + 'task4a_train' + c + '.png';
+	  	list[r[3]][c-1] = dname + 'task4a_train' + c + '.png';
     }
 	list[r[4]] = new Array();
 	for (var c=1; c <= nway; c++ ) {
-  		list[r[0]][c-1] = dname + 'task5a_train' + c + '.png';
+  		list[r[4]][c-1] = dname + 'task5a_train' + c + '.png';
     }
 
 	list[r[5]] = new Array();
 	for (var c=1; c <= nway; c++ ) {
-	  	list[r[1]][c-1] = dname + 'task6a_train' + c + '.png';
+	  	list[r[5]][c-1] = dname + 'task6a_train' + c + '.png';
     }
 	
 	list[r[6]] = new Array();
 	for (var c=1; c <= nway; c++ ) {
-  		list[r[0]][c-1] = dname + 'task7a_train' + c + '.png';
+  		list[r[6]][c-1] = dname + 'task7a_train' + c + '.png';
     }
 
 	list[r[7]] = new Array();
 	for (var c=1; c <= nway; c++ ) {
-	  	list[r[1]][c-1] = dname + 'task8a_train' + c + '.png';
+	  	list[r[7]][c-1] = dname + 'task8a_train' + c + '.png';
     }
 
 	list[r[8]] = new Array();
 	for (var c=1; c <= nway; c++ ) {
-  		list[r[0]][c-1] = dname + 'task9a_train' + c + '.png';
+  		list[r[8]][c-1] = dname + 'task9a_train' + c + '.png';
     }
 
 	list[r[9]] = new Array();
 	for (var c=1; c <= nway; c++ ) {
-	  	list[r[1]][c-1] = dname + 'task10a_train' + c + '.png';
+	  	list[r[9]][c-1] = dname + 'task10a_train' + c + '.png';
     }
 	
 	list[r[10]] = new Array();
 	for (var c=1; c <= nway; c++ ) {
-  		list[r[0]][c-1] = dname + 'task11a_train' + c + '.png';
+  		list[r[10]][c-1] = dname + 'task11a_train' + c + '.png';
     }
 
 	list[r[11]] = new Array();
 	for (var c=1; c <= nway; c++ ) {
-	  	list[r[1]][c-1] = dname + 'task12a_train' + c + '.png';
+	  	list[r[11]][c-1] = dname + 'task12a_train' + c + '.png';
     }	
 
 	
